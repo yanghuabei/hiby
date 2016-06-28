@@ -1,0 +1,10 @@
+{
+    "social": {
+        "weibo": "http://weibo.com/yanghuabei",
+        "github": "https://github.com/yanghuabei"
+    },
+    "extern": {
+	    "hexo": "https://hexo.io/zh-cn/",
+		"主题开发者": "https://github.com/raytaylorlin"
+    }
+}

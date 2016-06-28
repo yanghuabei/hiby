@@ -1,0 +1,16 @@
+{
+    "avatar": "http://ww2.sinaimg.cn/small/74990035jw1f1rjkd681bj20rs0rsdhg.jpg",
+    "name": "杨华北",
+	"tag": "Web前端/",
+    "desc": "介绍给你好不好",
+    "skills": {
+        "javascript": 6,
+		"css": 6,
+		"nodejs": 2
+    },
+    "projects": [],
+	"reward": [
+	    "http://raytaylorlin-blog.qiniudn.com/image/about/weixin_reward.png",
+		"http://raytaylorlin-blog.qiniudn.com/image/about/zhifubao_reward.png"
+	]
+}
