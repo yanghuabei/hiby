@@ -1,0 +1,69 @@
+# 菜单配置（若不需要某项可直接删除）
+menu:
+  # 首页
+  - id: home
+    link: /blog
+    icon: home
+    class: menu-home
+  # 归档
+  - id: archives
+    link: /blog/archives
+    icon: archive
+    class: menu-archive
+  # 目录
+  - id: category
+    link: javascript:;
+    category: true
+    icon: bookmark
+    class: menu-category
+  # 关于
+  - id: about
+    link: /blog/about
+    icon: user
+    class: menu-about
+  # 搜索
+  - id: search
+    link: "#search"
+    icon: search
+    class: menu-search modal-trigger
+
+# 颜色配置
+color:
+  header: cyan
+  footer: cyan
+  page_nav: cyan
+  side_nav: cyan darken-1
+  tag: green lighten-1
+  article_title_link: cyan
+  link: green
+  pagination: green
+  tab: red
+  archive_item: grey
+  fab: red
+  fab_2: green
+  fab_3: yellow darken-1
+  new: red
+  about_header: cyan
+  about_title: cyan
+
+excerpt_link: Read More
+archive_yearly: true
+
+# 版权信息
+copyright: © 2016 habel.cn, All rights reserved.
+
+# Disqus评论shortname，若为空则不启用
+disqus_shortname:
+# 多说shortname，若为空则不启用
+duoshuo_shortname:
+
+# Google分析track id，若为空则不启用
+google_analytics: UA-75889296-1
+# 腾讯分析sId，若为空则不启用
+tencent_analytics:
+
+# 高亮的主题，若为空则使用默认主题
+google_code_prettify: prettify-tomorrow-night-eighties
+
+# 是否启用MathJax数学公式渲染。如果你确认整个站点的博文都不会用到Latex数学公式，可以将其该项设为false提高页面加载速度
+mathjax: true
