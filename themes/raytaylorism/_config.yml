@@ -21,11 +21,6 @@ menu:
     link: /blog/about
     icon: user
     class: menu-about
-  # 搜索
-  - id: search
-    link: "#search"
-    icon: search
-    class: menu-search modal-trigger
 
 # 颜色配置
 color:
