@@ -28,16 +28,16 @@ color:
   footer: cyan
   page_nav: cyan
   side_nav: cyan darken-1
-  tag: green lighten-1
+  tag: cyan lighten-1
   article_title_link: cyan
-  link: green
-  pagination: green
+  link: cyan
+  pagination: cyan
   tab: red
   archive_item: grey
   fab: red
-  fab_2: green
+  fab_2: cyan
   fab_3: yellow darken-1
-  new: red
+  new: cyan
   about_header: cyan
   about_title: cyan
 
