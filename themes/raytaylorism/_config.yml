@@ -2,12 +2,12 @@
 menu:
   # 首页
   - id: home
-    link: /blog
+    link: /
     icon: home
     class: menu-home
   # 归档
   - id: archives
-    link: /blog/archives
+    link: /archives
     icon: archive
     class: menu-archive
   # 目录
@@ -18,7 +18,7 @@ menu:
     class: menu-category
   # 关于
   - id: about
-    link: /blog/about
+    link: /about
     icon: user
     class: menu-about
 
