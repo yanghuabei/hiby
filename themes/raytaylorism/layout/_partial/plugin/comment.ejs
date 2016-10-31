@@ -51,4 +51,20 @@ var pageTitle = page.title;
             </div>
         </div>
     </section>
+<% } else if (theme.changyan_shortname && page.comments){ %>
+    <section id="comment">
+        <div class="card">
+            <div class="card-content">
+                <!--PC版-->
+                <div id="SOHUCS" sid="<%= pageId %>"></div>
+                <script charset="utf-8" type="text/javascript" src="http://changyan.sohu.com/upload/changyan.js" ></script>
+                <script type="text/javascript">
+                window.changyan.api.config({
+                appid: 'cysFoeUX9',
+                conf: 'prod_c090c4875324274bf84d3dfa597c54b0'
+                });
+                </script>
+            </div>
+        </div>
+    </section>
 <% } %>
