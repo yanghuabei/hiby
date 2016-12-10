@@ -50,7 +50,8 @@ copyright: © 2016 habel.cn, All rights reserved.
 # Disqus评论shortname，若为空则不启用
 disqus_shortname:
 # 多说shortname，若为空则不启用
-duoshuo_shortname: hiby
+duoshuo_shortname:
+changyan_shortname: hiby
 
 # Google分析track id，若为空则不启用
 google_analytics: UA-75889296-1
